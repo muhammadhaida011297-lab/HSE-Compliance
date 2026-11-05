@@ -1,0 +1,6 @@
+{
+  "name": "Environmental Permit & Equipment Monitoring Dashboard",
+  "description": "Dashboard monitoring perizinan lingkungan dan peralatan kalibrasi untuk departemen Environment perusahaan pertambangan",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
